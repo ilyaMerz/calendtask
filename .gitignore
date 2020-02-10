@@ -85,6 +85,3 @@ sw.*
 
 
 
-cypress/integration/examples
-components/mixins/MyExample.ts
-components/0_ExampleUsingMixing.vue
